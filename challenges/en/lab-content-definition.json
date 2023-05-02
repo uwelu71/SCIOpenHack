@@ -1,0 +1,72 @@
+{
+    "Title": "OpenHack - Security, Compliance,and Identity",
+    "Description" : "OpenHack challenges for implimenting security, compliance, and identity.",
+    "OverviewUrl" : "Overview.html",
+    "ContentVersion": "1.4",
+    "ContentPackage": {
+      "ContentItems": [
+        {
+          "Order": 1,
+          "Title": "Challenge 1: What's in the toolbox?",
+          "Description": "Collect a list of Azure and Microsoft 365 security and compliance related tools and features used to implement improvements.",
+          "Url": "Challenge-1.html"
+        },
+        {
+          "Order": 2,
+          "Follows": 1,
+          "Title": "Challenge 2: Make it better",
+          "Description": "Improve your company's security and apply security related business requirements.",
+          "Url": "Challenge-2.html"
+        },
+        {
+          "Order": 3,
+          "Follows": 2,
+          "Title": "Challenge 3: Regulators, mount-up",
+          "Description": "Apply regulatory requirements and additional compliance related changes.",
+          "Url": "Challenge-3.html"
+        },
+        {
+          "Order": 4,
+          "Follows": 3,
+          "Title": "Challenge 4: Treat our data right",
+          "Description": "Create and assign data loss and prevention policies, labels, and tags as they align to business requirements.",
+          "Url": "Challenge-4.html"
+        },
+        {
+          "Order": 5,
+          "Follows": 4,
+          "Title": "Challenge 5: It's me, I can prove it",
+          "Description": "Enhance identity security using MFA and priviledged access.",
+          "Url": "Challenge-5.html"
+        },
+        {
+          "Order": 6,
+          "Follows": 5,
+          "Title": "Challenge 6: We need policies",
+          "Description": "Secure your Azure resources with policies.",
+          "Url": "Challenge-6.html"
+        },
+        {
+          "Order": 7,
+          "Follows": 6,
+          "Title": "Challenge 7: This has been a test",
+          "Description": "Run and analyze Microsoft Defender for Endpoint evaluation lab attack simulations, create an advanced hunting query, deploy an Azure Playbook, and then create an Azure Sentinel analytics rule.",
+          "Url": "Challenge-7.html"
+        },
+        {
+          "Order": 8,
+          "Follows": 7,
+          "Title": "Challenge 8: Trip the wire",
+          "Description": "Onboard and protect the environment using Microsoft Endpoint Mangager profiles and policies. Analyze attack simulations against onboarded devices and experience built-in Defender for Office 365 attack simulations.",
+          "Url": "Challenge-8.html"
+        },
+        {
+          "Order": 9,
+          "Follows": 8,
+          "Title": "Challenge 9: What we do in the shadows",
+          "Description": "Help protect the organization and monitor deployed apps using Cloud App Security.",
+          "Url": "Challenge-9.html"
+        }
+      ]
+    }
+  }

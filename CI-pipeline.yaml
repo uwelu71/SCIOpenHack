@@ -1,0 +1,72 @@
+---
+resources:
+  -
+    repo: self
+trigger:
+  branches:
+    exclude: 
+    - master
+variables:
+  variant: en
+steps:
+  -
+    task: NodeTool@0
+    inputs:
+      checkLatest: true
+      versionSpec: 10.x
+    displayName: "Use Node 10.x"
+  -
+    bash: |
+        sudo npm install -g markdownlint-cli
+        sudo npm install jsonlint -g
+        sudo apt-get install pandoc
+    displayName: "Download packages"
+  -
+    bash: |
+        markdownlint -c .markdownlint.json ./portal
+    displayName: "Linting OpenHack content"
+  -
+    bash: |
+        markdownlint -c .markdownlint.json ./resources
+    displayName: "Linting Resources"
+  -
+    bash: |
+        jsonlint -q ./portal/$(variant)/lab-content-definition.json
+    displayName: "Execute json linter"
+  -
+    bash: |
+        mkdir $(Build.ArtifactStagingDirectory)/portal
+        mkdir $(Build.ArtifactStagingDirectory)/portal/$(variant)
+        mkdir $(Build.ArtifactStagingDirectory)/portal/$(variant)/images
+        
+        for md in ./*.md
+        do
+          #echo ${md}
+          HTML_FULL_PATH=`basename $md '.md'`'.html'
+          #echo $HTML_FULL_PATH
+          pandoc --from markdown+raw_html --to html5 $(Build.SourcesDirectory)/portal/includes.yaml --title "OPEN HACK GUIDE" --no-highlight --output $HTML_FULL_PATH $md --standalone
+        done
+        cp *.html $(Build.ArtifactStagingDirectory)/portal/$(variant)
+        cp lab-content-definition.json $(Build.ArtifactStagingDirectory)/portal/$(variant)
+        cp ./images/* $(Build.ArtifactStagingDirectory)/portal/$(variant)/images
+    displayName: "Generate Portal content"
+    workingDirectory: $(Build.SourcesDirectory)/portal/$(variant)
+  -
+    bash: |
+        mkdir $(Build.ArtifactStagingDirectory)/resources
+        
+        cp -r ./* $(Build.ArtifactStagingDirectory)/resources
+    displayName: "Generate Resources content"
+    workingDirectory: $(Build.SourcesDirectory)/resources
+  - 
+    task: PublishBuildArtifacts@1
+    inputs:
+      pathtoPublish: '$(Build.ArtifactStagingDirectory)/portal'
+      artifactName: portal
+    displayName: "Publish Portal content as an Artifact"
+  - 
+    task: PublishBuildArtifacts@1
+    inputs:
+      pathtoPublish: '$(Build.ArtifactStagingDirectory)/resources'
+      artifactName: resources
+    displayName: "Publish Resources content as an Artifact"

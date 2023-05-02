@@ -1,0 +1,622 @@
+﻿Improvement action,Points achieved,Regulations,Group,Solutions,Assessments,Categories,Test status
+Enable self-service password reset,0/27,"ISO 27001, Data Protection Baseline",Default Group,Azure Active Directory,"Data Protection Baseline, ISO 27001",Control access,Failed high risk
+Create mail flow rules to encrypt messages,0/27,"ISO 27001, EU GDPR, NIST 800-53, Data Protection Baseline",Default Group,Azure Information Protection,"Data Protection Baseline, EU GDPR, ISO 27001, NIST 800-53",Protect information,None
+Automatically apply Client Side Sensitivity Labels,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Information Protection,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect information,None
+Conceal information with lock screen,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Windows 10,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage devices,None
+Use IRM for Exchange Online,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Azure Information Protection,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect information,None
+Use IRM for OneDrive for Business,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Azure Information Protection,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect information,None
+Implement DMARC for outbound mail,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Exchange Online Protection,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect information,None
+Set up Sender Policy Framework to prevent spoofing,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Office 365,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Use boundary protection devices for unclassified non-national security systems,0/27,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Apply sensitivity labels to protect ePHI,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Information Protection,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect information,None
+Configure machine inactivity limit,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Windows 10,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage devices,None
+Set up Office 365 ATP anti-phishing policies,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Office 365,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Apply sensitivity labels to protect financial data,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Information Protection,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect information,None
+Implement anti-malware policies,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Exchange Online Protection,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect information,None
+Apply sensitivity labels to protect sensitive or critical data,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Information Protection,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect information,None
+Turn on sign-in risk policy,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Azure Active Directory,"Data Protection Baseline, ISO 27001, NIST 800-53",Control access,Failed high risk
+Turn on user risk policy,0/27,"NIST 800-53, Data Protection Baseline",Default Group,Azure Active Directory,"Data Protection Baseline, NIST 800-53",Control access,Failed high risk
+"Turn on Office 365 ATP safe attachments for SharePoint, OneDrive and Microsoft Teams policy",0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Office 365,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Implement spam filter,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Exchange Online Protection,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect information,None
+Implement connection filter,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Exchange Online Protection,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect information,None
+Declare data as records by creating & publishing a record label,0/27,"ISO 27001, EU GDPR, NIST 800-53, Data Protection Baseline",Default Group,Records management,"Data Protection Baseline, EU GDPR, ISO 27001, NIST 800-53",Govern information,None
+Require mobile devices to use encryption,0/27,"ISO 27001, EU GDPR, NIST 800-53, Data Protection Baseline",Default Group,Exchange Online Protection,"Data Protection Baseline, EU GDPR, ISO 27001, NIST 800-53",Protect information,None
+Use attack simulator,0/27,"NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Office 365,"Data Protection Baseline, NIST 800-53",Protect against threats,None
+Retain terminated user data using event-driven retention,0/27,"NIST 800-53, Data Protection Baseline",Default Group,Records management,"Data Protection Baseline, NIST 800-53",Govern information,None
+Use role-based privileged account management for M365 accounts,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft 365 admin center,"Data Protection Baseline, ISO 27001, NIST 800-53",Control access,None
+Use S/MIME,0/27,"NIST 800-53, Data Protection Baseline",Default Group,Exchange Online Protection,"Data Protection Baseline, NIST 800-53",Protect information,None
+Retain training records,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Records management,"Data Protection Baseline, ISO 27001, NIST 800-53",Govern information,None
+Manage Microsoft 365 Accounts,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft 365 admin center,"Data Protection Baseline, ISO 27001, NIST 800-53",Control access,None
+Assign roles to Intune users,0/27,"NIST 800-53, Data Protection Baseline",Default Group,Intune,"Data Protection Baseline, NIST 800-53",Manage devices,None
+Use Intune data protection features,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Intune,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage devices,None
+Designate more than one global admin,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Azure Active Directory,"Data Protection Baseline, ISO 27001, NIST 800-53",Control access,Failed high risk
+Ensure sufficient strength for authenticators,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Enable multi-factor authentication for admins,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Azure Active Directory,"Data Protection Baseline, ISO 27001, NIST 800-53",Control access,Failed high risk
+Protect data at rest with customer key,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Security & compliance center,"Data Protection Baseline, ISO 27001, NIST 800-53",Discover and respond,None
+Enable multi-factor authentication for non-admins,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Azure Active Directory,"Data Protection Baseline, ISO 27001, NIST 800-53",Control access,Failed high risk
+Create a device configuration profile for Android devices,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Intune,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage devices,None
+Verify mailbox auditing is enabled,0/27,"NIST 800-53, Data Protection Baseline",Default Group,Exchange Online Protection,"Data Protection Baseline, NIST 800-53",Protect information,None
+Use automated tools to determine password strength,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Enable DomainKeys Identified Mail,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Exchange Online Protection,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect information,None
+Enable policy to block legacy authentication,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Azure Active Directory,"Data Protection Baseline, ISO 27001, NIST 800-53",Control access,Failed high risk
+Schedule scans with Microsoft Defender ATP for Mac,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Create service side labeling policies,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Information Protection,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect information,None
+Migrate Azure Information Protection labels to unified sensitivity labels,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Azure Information Protection,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect information,None
+Deploy updates for Microsoft Defender ATP for Linux,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Enable customer lockbox,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft 365 admin center,"Data Protection Baseline, ISO 27001, NIST 800-53",Control access,Failed high risk
+Enable Communication Compliance in O365,0/27,Data Protection Baseline,Default Group,Communication compliance,Data Protection Baseline,Manage internal risks,None
+Use Azure Hold Your Own Key Protection,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Azure Information Protection,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect information,None
+Use default DLP policies for US personally identifiable information data,0/27,Data Protection Baseline,Default Group,Data loss prevention,Data Protection Baseline,Protect information,None
+Protect data at rest with service encryption,0/27,"ISO 27001, EU GDPR, NIST 800-53, Data Protection Baseline",Default Group,Azure Information Protection,"Data Protection Baseline, EU GDPR, ISO 27001, NIST 800-53",Protect information,None
+Protect important folders with controlled folder access,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Create a custom audit log retention policy,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Audit,"Data Protection Baseline, ISO 27001, NIST 800-53",Discover and respond,None
+Use Privileged Identity Management in Azure Active Directory,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Azure Active Directory,"Data Protection Baseline, ISO 27001, NIST 800-53",Control access,None
+Configure a privileged access policy,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft 365 admin center,"Data Protection Baseline, ISO 27001, NIST 800-53",Control access,None
+Automatically apply record labels,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Records management,"Data Protection Baseline, ISO 27001, NIST 800-53",Govern information,None
+Configure and manage capabilities for Microsoft Threat Experts,0/27,"NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, NIST 800-53",Protect against threats,None
+Enable automated investigation and remediation in Microsoft Defender ATP,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Control your Azure Information Protection tenant key,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Azure Active Directory,"Data Protection Baseline, ISO 27001, NIST 800-53",Control access,None
+Use sensitivity labels for container-level classification,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Azure Information Protection,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect information,None
+Configure Microsoft Defender Antivirus network connections,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Use sensitivity labels to prioritize incident response in Microsoft Defender ATP,0/27,"NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, NIST 800-53",Protect against threats,None
+Configure Microsoft Defender ATP for Android,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Enable endpoint detection and response in block mode,0/27,"NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, NIST 800-53",Protect against threats,None
+View and configure Windows diagnostic data,0/27,"NIST 800-53, Data Protection Baseline",Default Group,Windows 10,"Data Protection Baseline, NIST 800-53",Manage devices,None
+Configure Microsoft Defender ATP for Linux,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Configure Microsoft Defender ATP for Mac,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Consult a threat expert,0/27,"NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, NIST 800-53",Protect against threats,None
+Enable Privileged Access Management in Office 365,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft 365 admin center,"Data Protection Baseline, ISO 27001, NIST 800-53",Control access,None
+Control applications with application control,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Use SharePoint Online to store sensitive files,0/27,"EU GDPR, NIST 800-53, Data Protection Baseline",Default Group,Azure Information Protection,"Data Protection Baseline, EU GDPR, NIST 800-53",Protect information,None
+Review access requests in Privileged Access Management,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft 365 admin center,"Data Protection Baseline, ISO 27001, NIST 800-53",Control access,None
+Restrict access to Microsoft 365 audit information,0/27,"NIST 800-53, Data Protection Baseline",Default Group,Audit,"Data Protection Baseline, NIST 800-53",Discover and respond,None
+Create a sensitive information type policy using Office 365 Message Encryption,0/27,"ISO 27001, EU GDPR, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Information Protection,"Data Protection Baseline, EU GDPR, ISO 27001, NIST 800-53",Protect information,None
+Review access requests in Privileged Identity Management,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Azure Active Directory,"Data Protection Baseline, ISO 27001, NIST 800-53",Control access,None
+Create and manage alerts in Microsoft Defender ATP,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Review and investigate insider risk management alerts,0/27,"NIST 800-53, Data Protection Baseline",Default Group,Insider risk management,"Data Protection Baseline, NIST 800-53",Manage internal risks,None
+Retain terminated user data manually,0/27,"NIST 800-53, Data Protection Baseline",Default Group,Microsoft 365 admin center,"Data Protection Baseline, NIST 800-53",Control access,None
+Create and manage device tags and groups in Microsoft Defender ATP,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Implement account lockout,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Azure Active Directory,"Data Protection Baseline, ISO 27001, NIST 800-53",Control access,None
+Create customized or use built-in trainable classifiers,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Data classification,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect information,None
+Enforce immediate temporary password change,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft 365 admin center,"Data Protection Baseline, ISO 27001, NIST 800-53",Control access,None
+Use password hash sync in hybrid environments,0/27,"ISO 27001, Data Protection Baseline",Default Group,Azure Active Directory,"Data Protection Baseline, ISO 27001",Control access,Failed high risk
+Create a Windows 10 app protection policy,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Intune,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage devices,None
+Enable controlled folder access,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Activate Azure Rights Management,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Azure Information Protection,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect information,None
+Apply sensitivity labels to protect personal data,0/27,"ISO 27001, EU GDPR, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Information Protection,"Data Protection Baseline, EU GDPR, ISO 27001, NIST 800-53",Protect information,None
+Create a sharing policy in Exchange,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Exchange Online Protection,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect information,None
+Create customized DLP policies for company sensitive information,0/27,"ISO 27001, EU GDPR, NIST 800-53, Data Protection Baseline",Default Group,Data loss prevention,"Data Protection Baseline, EU GDPR, ISO 27001, NIST 800-53",Protect information,None
+Create customized DLP policies for personally identifiable information,0/27,"ISO 27001, EU GDPR, Data Protection Baseline",Default Group,Data loss prevention,"Data Protection Baseline, EU GDPR, ISO 27001",Protect information,None
+Create customized DLP policies for personal data,0/27,"ISO 27001, EU GDPR, Data Protection Baseline",Default Group,Data loss prevention,"Data Protection Baseline, EU GDPR, ISO 27001",Protect information,None
+Create customized or use default DLP policies for Endpoints,0/27,"ISO 27001, EU GDPR, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Information Protection,"Data Protection Baseline, EU GDPR, ISO 27001, NIST 800-53",Protect information,None
+Provide privacy notice using Azure Active Directory,0/27,"EU GDPR, Data Protection Baseline",Default Group,Azure Active Directory,"Data Protection Baseline, EU GDPR",Control access,None
+Restrict access to content by turning on encryption in sensitivity labels,0/27,"ISO 27001, EU GDPR, NIST 800-53, Data Protection Baseline",Default Group,Azure Information Protection,"Data Protection Baseline, EU GDPR, ISO 27001, NIST 800-53",Protect information,None
+Store user documents in OneDrive for Business,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,OneDrive for Business,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect information,None
+Use Azure Active Directory Terms of Use,0/27,Data Protection Baseline,Default Group,Azure Active Directory,Data Protection Baseline,Control access,None
+Use anonymization in Cloud App Security,0/27,"ISO 27001, EU GDPR, Data Protection Baseline",Default Group,Cloud App Security,"Data Protection Baseline, EU GDPR, ISO 27001",Discover and respond,None
+Create a compliance policy for Android enterprise devices,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Intune,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage devices,None
+Create a compliance policy for iOs devices,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Intune,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage devices,None
+Create a compliance policy for macOS devices,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Intune,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage devices,None
+Create a compliance policy for Android devices,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Intune,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage devices,None
+Create a compliance policy for Windows devices,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Intune,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage devices,None
+Create a device configuration profile for macOS devices,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Intune,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage devices,None
+Create a device configuration profile for Android enterprise devices,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Intune,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage devices,None
+Create a device configuration profile for iOS devices,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Intune,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage devices,None
+Create a device configuration profile for Windows devices,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Intune,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage devices,None
+Enable Cloud App Security,0/27,"NIST 800-53, Data Protection Baseline",Default Group,Cloud App Security,"Data Protection Baseline, NIST 800-53",Discover and respond,None
+Enable exploit protection,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Enable network protection,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Enable versioning for document libraries,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,SharePoint Online,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect information,None
+Implement outbound spam policy,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Exchange Online Protection,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect information,None
+Monitor third-party integrated applications,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Office 365,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Prevent threats with behavioral blocking and containment capabilities,0/27,"NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, NIST 800-53",Protect against threats,None
+Set up ATP safe links policies,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Office 365,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Use IRM for SharePoint Online,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Azure Information Protection,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect information,None
+Allow mailbox delegation only when authorized,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Exchange Online Protection,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect information,None
+Disallow simple passwords on mobile devices,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Intune,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage devices,None
+Enforce multi-factor authenticator registration,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Azure Active Directory,"Data Protection Baseline, ISO 27001, NIST 800-53",Control access,None
+Require mobile devices to use alphanumeric password,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Intune,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage devices,None
+Require mobile devices to have minimum password length,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Intune,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage devices,None
+Block jail broken and rooted mobile devices,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Intune,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage devices,None
+Configure Intune for mobile device management,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Intune,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage devices,None
+Create an Android app protection policy,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Intune,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage devices,None
+Create an iOS app protection policy,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Intune,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage devices,None
+Determine password lifetime requirements,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Disallow password reuse on mobile devices,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Intune,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage devices,None
+Disable unused accounts,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Azure Active Directory,"Data Protection Baseline, ISO 27001, NIST 800-53",Control access,None
+Enable audit log search,0/27,"NIST 800-53, Data Protection Baseline",Default Group,Audit,"Data Protection Baseline, NIST 800-53",Discover and respond,None
+Log off idle sessions,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Require mobile devices to block access and report policy violations,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Intune,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage devices,None
+Require mobile devices to lock upon inactivity,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Intune,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage devices,None
+Require mobile devices to use managed email profiles,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Intune,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage devices,None
+Require mobile devices to use a password,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Intune,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage devices,None
+Require mobile devices to wipe on multiple sign-in failures,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Intune,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage devices,None
+Configure alternate contact info for all users,0/27,"NIST 800-53, Data Protection Baseline",Default Group,Azure Active Directory,"Data Protection Baseline, NIST 800-53",Control access,None
+Enable client rules forwarding block,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Exchange Online Protection,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect information,None
+Configure external sharing links to expire,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,SharePoint Online,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect information,None
+Control anonymous calendar sharing,0/27,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft 365 admin center,"Data Protection Baseline, ISO 27001, NIST 800-53",Control access,None
+Create and apply a retention policy,0/27,"EU GDPR, NIST 800-53",Default Group,Information governance,"EU GDPR, NIST 800-53",Govern information,None
+Automatically apply retention labels,0/27,"EU GDPR, NIST 800-53",Default Group,Records management,"EU GDPR, NIST 800-53",Govern information,None
+Lock a retention policy,0/27,"ISO 27001, EU GDPR, NIST 800-53",Default Group,Information governance,"EU GDPR, ISO 27001, NIST 800-53",Govern information,None
+Create and publish a retention label,0/27,"ISO 27001, EU GDPR, NIST 800-53",Default Group,Records management,"EU GDPR, ISO 27001, NIST 800-53",Govern information,None
+Enable mailbox archive,0/27,"ISO 27001, NIST 800-53",Default Group,Exchange Online Protection,"ISO 27001, NIST 800-53",Protect information,None
+Retain data using event-driven records management,0/27,"ISO 27001, NIST 800-53",Default Group,Records management,"ISO 27001, NIST 800-53",Govern information,None
+Retain ISO supporting documentation,0/27,"ISO 27001, NIST 800-53",Default Group,Records management,"ISO 27001, NIST 800-53",Govern information,None
+Define a device value,0/27,ISO 27001,Default Group,Microsoft Defender for Endpoint,ISO 27001,Protect against threats,None
+Retain security policies and procedures,0/27,ISO 27001,Default Group,Records management,ISO 27001,Govern information,None
+Protect your network with network protection,0/27,ISO 27001,Default Group,Microsoft Defender for Endpoint,ISO 27001,Protect against threats,None
+Deploy mandatory disclaimers,0/27,ISO 27001,Default Group,Exchange Online Protection,ISO 27001,Protect information,None
+Restrict user to grant consent to unmanaged applications,0/27,ISO 27001,Default Group,Azure Active Directory,ISO 27001,Control access,None
+Configure authentication contact info for all users,0/27,ISO 27001,Default Group,Azure Active Directory,ISO 27001,Control access,None
+Manage endpoint security in Microsoft Intune,0/27,ISO 27001,Default Group,Intune,ISO 27001,Manage devices,None
+Retain nonconformity details,0/27,ISO 27001,Default Group,Records management,ISO 27001,Govern information,None
+Export audit records,0/27,"ISO 27001, NIST 800-53",Default Group,Audit,"ISO 27001, NIST 800-53",Discover and respond,None
+Set system message for users attempting to log on,0/27,NIST 800-53,Default Group,Windows 10,NIST 800-53,Manage devices,None
+Use a data connector to archive third-party data,0/27,NIST 800-53,Default Group,Information governance,NIST 800-53,Govern information,None
+Implement standardized user ID,0/27,NIST 800-53,Default Group,Azure Active Directory,NIST 800-53,Control access,None
+Retain HIPAA supporting documentation,0/27,NIST 800-53,Default Group,Records management,NIST 800-53,Govern information,None
+Import PST files to Office 365 in Microsoft compliance center,0/27,NIST 800-53,Default Group,Information governance,NIST 800-53,Govern information,None
+Govern policies and procedures,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Identify non-organizational users,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Facilitate information sharing,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Identify actions allowed without authentication,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Conduct exit interview upon termination,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Categorize information,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Information Protection,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect information,None
+Assign and review position risk designations,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Document security strength requirements in acquisition contracts,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Authorize remote access,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Document security functional requirements in acquisition contracts,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Separate duties of individuals,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Document security documentation requirements in acquisition contract,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Document security assurance requirements in acquisition contracts,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Document acquisition contract acceptance criteria,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Assign risk designations,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Require approval for account creation,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Provide security training for new users,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Implement controls to secure all media,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Protect audit information,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Clear personnel with access to classified information,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Establish and document change control processes,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Establish a secure software development program,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Establish and maintain an asset inventory,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Develop information security policies and procedures,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Document security and privacy training activities,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Document the protection of cardholder data in third party contracts,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Perform a risk assessment,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Develop acceptable use policies and procedures,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Establish voip usage restrictions,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Authorize access to intune - valid authorization,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Intune,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage devices,None
+Establish procedures for initial authenticator distribution,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Authorize access to intune - organizational attributes,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Intune,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage devices,None
+Retrieve security-related property,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Authorize access to intune - intended system use,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Intune,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage devices,None
+Develop security safeguards,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Establish conditions for role membership,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Manage system and admin accounts,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Protect authenticators,0/9,"ISO 27001, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001",Manage compliance,None
+Implement physical security for offices and working areas,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Update security awareness training,0/9,"ISO 27001, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001",Manage compliance,None
+Provide information spillage training,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Document the information system environment in acquisition contracts,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Update rules of behavior and access agreements,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Update interconnection security agreements,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Reevaluate access upon personnel transfer,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Update information security policies,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Modify access authorizations upon personnel transfer,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Review and sign revised rules of behavior,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Provide security training before providing access,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Implement formal sanctions process,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Develop access control policies for ePHI,0/9,Data Protection Baseline,Default Group,Compliance Manager,Data Protection Baseline,Manage compliance,None
+Provide role-based security training,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Document access privileges,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Document separation of duties,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Provide security awareness training,0/9,"ISO 27001, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001",Manage compliance,None
+Document wireless access guidelines,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Manage symmetric cryptographic keys,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Implement personnel screening,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Require users to sign access agreement,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Define and enforce conditions for shared and group accounts,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Review access control policies and procedures,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Define information system account types,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Reissue authenticators for changed groups and accounts,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Document requirements for the use of shared data in contracts,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Initiate transfer or reassignment actions,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Document protection of security information in acquisition contracts,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Understand your responsibilities regarding dpias,0/9,"EU GDPR, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, EU GDPR",Manage compliance,None
+Establish procedures for the collection and processing of data belonging to children and adolescents,0/9,"EU GDPR, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, EU GDPR",Manage compliance,None
+Protect incident response plan,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Establish requirements for audit review and reporting,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Define and establish security and privacy attributes,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Document organizational access agreements,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Update role-based security training,0/9,"ISO 27001, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001",Manage compliance,None
+Map authenticated identities to individuals,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Conduct incident response testing,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Employ least privilege access,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Document third-party security requirements,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Synchronize server clocks with nist ntp servers,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Document remote access guidelines,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Develop audit and accountability policies and procedures,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Develop access control policies and procedures,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Confirm accuracy of collected personal data,0/9,"EU GDPR, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, EU GDPR",Manage compliance,None
+Restrict access to privileged accounts,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Azure Active Directory,"Data Protection Baseline, ISO 27001, NIST 800-53",Control access,None
+Provide anti-malware training,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Authorize wireless access,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Develop an incident response plan,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+"Authorize, monitor, and control voip",0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Authorize access to Office 365 - valid authorization,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Define access authorizations to support separation of duties,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Re-screen personnel at appropriate intervals,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Authorize access to security functions and information,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Authorize access to Office 365 - intended system use,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Assign account managers,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Perform a business impact assessment and application criticality assessment,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Control use of portable storage devices,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Control information flow,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Update organizational access agreements,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Monitor privileged role assignment,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Authorize access to Office 365 - organizational attributes,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Enable Sensitivity Labels for SharePoint Online and OneDrive,0/9,Data Protection Baseline,Default Group,Microsoft Information Protection,Data Protection Baseline,Protect information,None
+Require compliance with business continuity and disaster recovery requirements,0/9,Data Protection Baseline,Default Group,Compliance Manager,Data Protection Baseline,Manage compliance,None
+Maintain records of processing of personal data,0/9,"EU GDPR, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, EU GDPR",Manage compliance,None
+Protect authenticators commensurate with use,0/9,"ISO 27001, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001",Manage compliance,None
+Notify personnel upon sanctions,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Assess risk in third party relationships,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Enforce password complexity,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Maintain incident response plan,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Disable access immediately upon termination,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Require third-party compliance with organizational requirements,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Protect passwords with encryption,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Distribute policies and procedures,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Enforce logical access,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Enforce confidentiality or non-disclosure agreement,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Implement password guidelines,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Develop and document a business continuity and disaster recovery plan,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Identify incident response personnel,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Enforce security configuration settings,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Enforce rules of behavior and access agreements,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Automate information sharing decisions,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Incorporate Office 365 into change management processes,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Incorporate intune into change management processes,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Manage cryptographic keys,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Limit use of unencrypted static authenticators,0/9,"ISO 27001, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001",Manage compliance,None
+Use non-privileged accounts,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,Failed high risk
+Verify identity before distributing authenticators,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Route traffic through managed network access points,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Restrict access to audit information,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Restrict access to private keys,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Azure Active Directory,"Data Protection Baseline, ISO 27001, NIST 800-53",Control access,None
+Configure workstations to check for digital certificates,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Construct certificate validation path for PKI-based authentication,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Azure Active Directory,"Data Protection Baseline, ISO 27001, NIST 800-53",Control access,None
+Use system clocks for audit records,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Audit,"Data Protection Baseline, ISO 27001, NIST 800-53",Discover and respond,None
+Issue public key certificates,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Establish network segmentation for card holder data environment,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Refresh authenticators,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Disable authenticators upon termination,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Prevent identifier re-use,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Enforce user uniqueness,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Protect data in transit using encryption,0/9,"ISO 27001, EU GDPR, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Information Protection,"Data Protection Baseline, EU GDPR, ISO 27001, NIST 800-53",Protect information,None
+Develop risk assessment policies and procedures,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Satisfy token quality requirements,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Authenticate to cryptographic module,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Protect wireless access,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Manage authenticator lifetime and reuse,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Assign system identifiers,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Azure Active Directory,"Data Protection Baseline, ISO 27001, NIST 800-53",Control access,None
+Automate account management,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Assess information security events,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Change vendor-supplied defaults,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Align business objectives and it goals,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Classify assets into risk-based categories,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Define a physical key management process,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Define and secure physical perimeters,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Facilitate reviews by regulatory bodies,0/9,Data Protection Baseline,Default Group,Compliance Manager,Data Protection Baseline,Manage compliance,None
+Establish requirements for internet service providers,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Secure content transfers,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Manage gateways,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Secure commitment from leadership,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Define mobile device requirements,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Implement a search process for entry and exit,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Implement an automated configuration management tool,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Manage nonlocal maintenance and diagnostic activities,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Secure the interface to external systems,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Define requirements for managing assets,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Define requirements for supplying goods and services,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Implement an enterprise architecture framework,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Implement controls to secure alternate work sites,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Manage the transportation of assets,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Implement parameters for memorized secret verifiers,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Monitor audit processing activities,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Use dedicated machines for administrative tasks,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Design an access control model,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Determine assertion requirements,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Determine supplier contract obligations,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Develop a tailored control baseline and profile,0/9,Data Protection Baseline,Default Group,Compliance Manager,Data Protection Baseline,Manage compliance,None
+Develop and document a DDoS response plan,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Obtain consent prior to sending electronic messages,0/9,"ISO 27001, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001",Manage compliance,None
+Develop and document application security requirements,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Perform data center resilience and risk assessment,0/9,Data Protection Baseline,Default Group,Compliance Manager,Data Protection Baseline,Manage compliance,None
+Perform a data protection impact assessment,0/9,"EU GDPR, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, EU GDPR",Manage compliance,None
+Use Microsoft Defender ATP to explore security recommendations,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Perform threat modeling,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Develop business classification schemes,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Manage availability and capacity,0/9,"ISO 27001, EU GDPR, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, EU GDPR, ISO 27001, NIST 800-53",Manage compliance,None
+Develop and maintain baseline configurations,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Develop system and communications protection policies and procedures,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Document and maintain a network diagram,0/9,Data Protection Baseline,Default Group,Compliance Manager,Data Protection Baseline,Manage compliance,None
+Manage concurrent active sessions,0/9,Data Protection Baseline,Default Group,Compliance Manager,Data Protection Baseline,Manage compliance,None
+Prohibit the use of cached authenticators,0/9,"ISO 27001, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001",Manage compliance,None
+Document and report alternative security measures,0/9,"ISO 27001, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001",Manage compliance,None
+Manage contacts for authorities and special interest groups,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Document mobility training,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Manage enterprise architecture,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Provide a mechanism to withdraw consent,0/9,"EU GDPR, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, EU GDPR",Manage compliance,None
+Enable and maintain an uninterruptible power supply,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Provide contingency training,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Use security baselines,0/9,Data Protection Baseline,Default Group,Microsoft Defender for Office 365,Data Protection Baseline,Protect against threats,None
+Provide secure name and address resolution services,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Reauthenticate or terminate a user session,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Require compliance with intellectual property rights,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Verify implementation of security controls,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Establish a configuration control board,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Require security clearance before accessing sensitive data on government property,0/9,Data Protection Baseline,Default Group,Compliance Manager,Data Protection Baseline,Manage compliance,None
+Control maintenance and repair activities,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Establish a control selection process,0/9,Data Protection Baseline,Default Group,Compliance Manager,Data Protection Baseline,Manage compliance,None
+Control physical access,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Establish a data leakage management procedure,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Establish a risk management strategy,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Create a data inventory,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Establish a password policy,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Establish a self assessment process,0/9,Data Protection Baseline,Default Group,Compliance Manager,Data Protection Baseline,Manage compliance,None
+Establish a threat intelligence program,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Establish and document a configuration management plan,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Establish procedures to secure infrastructure,0/9,Data Protection Baseline,Default Group,Compliance Manager,Data Protection Baseline,Manage compliance,None
+Establish authenticator types and processes,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Manage asset transportation,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Establish backup policies and procedures,0/9,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Address coding vulnerabilities,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Establish policies for supply chain risk management,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Define cryptographic use,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Define organizational requirements for cryptographic key management,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Document remediation actions for policy and procedure violations,0/9,Data Protection Baseline,Default Group,Compliance Manager,Data Protection Baseline,Manage compliance,None
+Implement training for protecting authenticators,0/9,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Consumer personal information opt out rights,0/9,"EU GDPR, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, EU GDPR",Manage compliance,None
+Determine the notification requirements to data subjects,0/9,"EU GDPR, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, EU GDPR",Manage compliance,None
+Display prominent privacy notifications,0/9,"EU GDPR, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, EU GDPR",Manage compliance,None
+Document protection of personal data in acquisition contracts,0/9,"ISO 27001, EU GDPR, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, EU GDPR, ISO 27001, NIST 800-53",Manage compliance,None
+Implement privacy notice delivery methods,0/9,"EU GDPR, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, EU GDPR",Manage compliance,None
+Manage compliance activities,0/9,"ISO 27001, EU GDPR, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, EU GDPR, ISO 27001",Manage compliance,None
+Obfuscate sensitive data,0/9,"ISO 27001, EU GDPR, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, EU GDPR, ISO 27001",Manage compliance,None
+Obtain authorization from the regulator to process personal data,0/9,"EU GDPR, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, EU GDPR",Manage compliance,None
+"Manage the input, output, processing, and storage of data",0/9,Data Protection Baseline,Default Group,Microsoft Information Protection,Data Protection Baseline,Protect information,None
+Obtain consent prior to collection or processing of personal data,0/9,"EU GDPR, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, EU GDPR",Manage compliance,None
+Protect special information,0/9,"ISO 27001, EU GDPR, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, EU GDPR, ISO 27001, NIST 800-53",Manage compliance,None
+Protect personal data of children and elderly,0/9,"ISO 27001, EU GDPR, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, EU GDPR, ISO 27001",Manage compliance,None
+Provide privacy notice,0/9,"EU GDPR, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, EU GDPR",Manage compliance,None
+Provide privacy training,0/9,"ISO 27001, EU GDPR, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, EU GDPR, ISO 27001",Manage compliance,None
+Pseudonymize or de-identify personal data,0/9,"ISO 27001, EU GDPR, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, EU GDPR, ISO 27001",Manage compliance,None
+Records of personal data processing,0/9,"EU GDPR, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, EU GDPR",Manage compliance,None
+Provide data breach training,0/9,"ISO 27001, EU GDPR, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, EU GDPR, ISO 27001",Manage compliance,None
+Record disclosures of PII to third parties,0/9,"EU GDPR, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, EU GDPR",Manage compliance,None
+Designate union representative,0/9,EU GDPR,Default Group,Compliance Manager,EU GDPR,Manage compliance,None
+Establish a privacy program,0/9,"ISO 27001, EU GDPR, NIST 800-53",Default Group,Compliance Manager,"EU GDPR, ISO 27001, NIST 800-53",Manage compliance,None
+Develop a private data processing procedure,0/9,EU GDPR,Default Group,Compliance Manager,EU GDPR,Manage compliance,None
+Verify consumer identity,0/9,EU GDPR,Default Group,Compliance Manager,EU GDPR,Manage compliance,None
+Prohibit consumer discrimination,0/9,EU GDPR,Default Group,Compliance Manager,EU GDPR,Manage compliance,None
+Understand requirements for financial incentives,0/9,EU GDPR,Default Group,Compliance Manager,EU GDPR,Manage compliance,None
+Restrict the processing of identifiers,0/9,EU GDPR,Default Group,Compliance Manager,EU GDPR,Manage compliance,None
+Adhere to retention periods defined,0/9,"ISO 27001, EU GDPR, NIST 800-53",Default Group,Compliance Manager,"EU GDPR, ISO 27001, NIST 800-53",Manage compliance,None
+Maintain data breach records,0/9,"EU GDPR, NIST 800-53",Default Group,Compliance Manager,"EU GDPR, NIST 800-53",Manage compliance,None
+Disallow data-based discrimination,0/9,EU GDPR,Default Group,Compliance Manager,EU GDPR,Manage compliance,None
+Prohibit data profiling during automated data processing,0/9,EU GDPR,Default Group,Compliance Manager,EU GDPR,Manage compliance,None
+Determine the requirements for joint data processing,0/9,EU GDPR,Default Group,Compliance Manager,EU GDPR,Manage compliance,None
+Require compliance with data portability requirements,0/9,EU GDPR,Default Group,Compliance Manager,EU GDPR,Manage compliance,None
+"Adopt security, technical, and administrative measures to protect personal data",0/9,"ISO 27001, EU GDPR",Default Group,Compliance Manager,"EU GDPR, ISO 27001",Manage compliance,None
+Complete third party information notices,0/9,EU GDPR,Default Group,Compliance Manager,EU GDPR,Manage compliance,None
+Consumer financial incentives opt out rights,0/9,EU GDPR,Default Group,Compliance Manager,EU GDPR,Manage compliance,None
+Define the duties of processors,0/9,EU GDPR,Default Group,Compliance Manager,EU GDPR,Manage compliance,None
+Develop a data handling policy,0/9,"ISO 27001, EU GDPR",Default Group,Compliance Manager,"EU GDPR, ISO 27001",Manage compliance,None
+Develop a data transfer policy,0/9,"ISO 27001, EU GDPR",Default Group,Compliance Manager,"EU GDPR, ISO 27001",Manage compliance,None
+Discoverable privacy notification,0/9,EU GDPR,Default Group,Compliance Manager,EU GDPR,Manage compliance,None
+Determine the requirements for cross-border transmissions,0/9,"ISO 27001, EU GDPR",Default Group,Compliance Manager,"EU GDPR, ISO 27001",Manage compliance,None
+Determine organization role,0/9,EU GDPR,Default Group,Compliance Manager,EU GDPR,Manage compliance,None
+Document and distribute a privacy policy,0/9,"ISO 27001, EU GDPR",Default Group,Compliance Manager,"EU GDPR, ISO 27001",Manage compliance,None
+Document the legal basis for processing personal information,0/9,"ISO 27001, EU GDPR",Default Group,Compliance Manager,"EU GDPR, ISO 27001",Manage compliance,None
+Establish and adhere to binding corporate rules,0/9,"ISO 27001, EU GDPR",Default Group,Compliance Manager,"EU GDPR, ISO 27001",Manage compliance,None
+Establish requirements for processing personal data related to criminal convictions,0/9,"ISO 27001, EU GDPR",Default Group,Compliance Manager,"EU GDPR, ISO 27001",Manage compliance,None
+Implement methods for consumer requests,0/9,EU GDPR,Default Group,Compliance Manager,EU GDPR,Manage compliance,None
+Inform data subjects of their rights,0/9,EU GDPR,Default Group,Compliance Manager,EU GDPR,Manage compliance,None
+Incorporate security and data privacy practices in research processing,0/9,"ISO 27001, EU GDPR",Default Group,Compliance Manager,"EU GDPR, ISO 27001",Manage compliance,None
+Limit disclosure of personal information in disciplinary proceedings,0/9,"ISO 27001, EU GDPR",Default Group,Compliance Manager,"EU GDPR, ISO 27001",Manage compliance,None
+Limit sensitive evidence collection,0/9,"ISO 27001, EU GDPR",Default Group,Compliance Manager,"EU GDPR, ISO 27001",Manage compliance,None
+Information security and personal data protection,0/9,"ISO 27001, EU GDPR",Default Group,Compliance Manager,"EU GDPR, ISO 27001",Manage compliance,None
+Manage a registry process,0/9,EU GDPR,Default Group,Compliance Manager,EU GDPR,Manage compliance,None
+Manage cross-border data transfers,0/9,"ISO 27001, EU GDPR",Default Group,Compliance Manager,"EU GDPR, ISO 27001",Manage compliance,None
+Protect personal data,0/9,"ISO 27001, EU GDPR",Default Group,Compliance Manager,"EU GDPR, ISO 27001",Manage compliance,None
+Restrict the processing of personal data,0/9,"ISO 27001, EU GDPR",Default Group,Compliance Manager,"EU GDPR, ISO 27001",Manage compliance,None
+Supervise personnel handling personal information,0/9,"ISO 27001, EU GDPR",Default Group,Compliance Manager,"EU GDPR, ISO 27001",Manage compliance,None
+Understand requirements for providing access to personal data,0/9,"ISO 27001, EU GDPR",Default Group,Compliance Manager,"EU GDPR, ISO 27001",Manage compliance,None
+Support personal verification credentials issued by legal authorities,0/9,"ISO 27001, NIST 800-53",Default Group,Compliance Manager,"ISO 27001, NIST 800-53",Manage compliance,None
+Maintain a list of third parties,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Develop identification and authentication policies and procedures,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Establish an information security program,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Develop organization code of conduct policy,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Publish periodic security reminders,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Document terms and conditions for external information systems,0/9,"ISO 27001, NIST 800-53",Default Group,Compliance Manager,"ISO 27001, NIST 800-53",Manage compliance,None
+Synchronize server clocks,0/9,"ISO 27001, NIST 800-53",Default Group,Compliance Manager,"ISO 27001, NIST 800-53",Manage compliance,None
+Develop a media library protection policy,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Develop and document a governance plan,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Develop and maintain a risk management framework,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Implement logging and monitoring of applications,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Establish a data governance model,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Develop and maintain a vulnerability management standard,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Establish organizational leadership,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Create stakeholder values,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Implement an enrollment process,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Define and document communication needs,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+"Establish roles, responsibilities and qualifications of designated personnel",0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Establish and document remediation processes,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Establish electronic system procedures,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Submit information to authorities,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Establish traceability of controls,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Allocate responsibility for operational tasks,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+"Prohibit the use, aquisition and supply of address harvesting software and harvested lists",0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Develop procedures for sending electronic messages,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Implement and optimize IT capabilities,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Define business functional and technical requirements,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Manage networks with SDN,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Establish a technology adoption strategy,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Understand the legal requirements for data messages,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Establish a security operations center,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Establish a data storage and recovery strategy,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Develop procedures for sending sexually oriented electronic messages,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Develop and document a crisis management plan,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+"Search, view, and export records",0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Optimize and manage capacity requirements,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Utilize software development frameworks and libraries,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Adopt an IT implementation method,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Manage organizational projects,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Integrate a digital transformation strategy,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Restrict access to source code,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Prohibit unfair practices,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Implement adequate security measures,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Govern and secure electronic transactions,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Update rules of behavior and access agreements every 3 years,0/9,"ISO 27001, NIST 800-53",Default Group,Compliance Manager,"ISO 27001, NIST 800-53",Manage compliance,None
+Secure integrated voice response systems,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Secure multi-functional devices and high-volume printers,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Define requirements for protecting electronic payment systems,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Establish parameters for searching secret authenticators and verifiers,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Secure infrastructure,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Secure cookies,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Restrict the use of non-switched devices,0/9,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Provide security awareness training for insider threats,0/9,NIST 800-53,Default Group,Compliance Manager,NIST 800-53,Manage compliance,None
+Use profiles that conform to ficam,0/9,NIST 800-53,Default Group,Compliance Manager,NIST 800-53,Manage compliance,None
+Retain and secure records as required by the by the u.s. securities and exchange commission rule 17a-4,0/9,NIST 800-53,Default Group,Compliance Manager,NIST 800-53,Manage compliance,None
+Distribute authenticators,0/9,NIST 800-53,Default Group,Compliance Manager,NIST 800-53,Manage compliance,None
+Require FICAM-approved components,0/9,NIST 800-53,Default Group,Compliance Manager,NIST 800-53,Manage compliance,None
+Require ficam-approved third-party credentials,0/9,NIST 800-53,Default Group,Azure Active Directory,NIST 800-53,Control access,None
+Enable mobile device remote wipe,0/3,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Intune,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage devices,None
+Revoke email encrypted by Office 365 Advanced Message Encryption,0/3,"NIST 800-53, Data Protection Baseline",Default Group,Microsoft Information Protection,"Data Protection Baseline, NIST 800-53",Protect information,None
+Review and remediate cloud anomaly detection alerts,0/3,"NIST 800-53, Data Protection Baseline",Default Group,Cloud App Security,"Data Protection Baseline, NIST 800-53",Discover and respond,Could not be detected
+Set automated notifications for new and trending cloud applications in your organization,0/3,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Cloud App Security,"Data Protection Baseline, ISO 27001, NIST 800-53",Discover and respond,Could not be detected
+Use Cloud App Security to detect anomalous behavior,0/3,"NIST 800-53, Data Protection Baseline",Default Group,Cloud App Security,"Data Protection Baseline, NIST 800-53",Discover and respond,None
+Enable detection of network devices,0/3,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Intune,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage devices,None
+Use Office 365 ATP Threat Protection status reports for trend analysis,0/3,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Office 365,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Use Office 365 ATP Threat Tracker for threat intelligence,0/3,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Office 365,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Report atypical usage,0/3,Data Protection Baseline,Default Group,Audit,Data Protection Baseline,Discover and respond,None
+Govern discovered apps,0/3,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Cloud App Security,"Data Protection Baseline, ISO 27001, NIST 800-53",Discover and respond,None
+Remediate communication compliance alerts,0/3,Data Protection Baseline,Default Group,Communication compliance,Data Protection Baseline,Manage internal risks,None
+Discover and review trends in shadow IT application usage,0/3,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Cloud App Security,"Data Protection Baseline, ISO 27001, NIST 800-53",Discover and respond,Could not be detected
+Review the Azure activity log,0/3,"NIST 800-53, Data Protection Baseline",Default Group,Azure,"Data Protection Baseline, NIST 800-53",Discover and respond,None
+Review the threat analytics dashboard,0/3,"NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, NIST 800-53",Protect against threats,None
+Review controlled folder access events,0/3,"NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, NIST 800-53",Protect against threats,None
+Manage incidents in Microsoft Defender ATP,0/3,"NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, NIST 800-53",Protect against threats,None
+Use advanced eDiscovery Cases to support legal investigations,0/3,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,eDiscovery,"Data Protection Baseline, ISO 27001, NIST 800-53",Discover and respond,None
+Monitor communications for regulatory compliance,0/3,Data Protection Baseline,Default Group,Communication compliance,Data Protection Baseline,Manage internal risks,None
+Use automated investigation and remediation capabilities in Microsoft Defender ATP,0/3,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+"Create, configure, and turn on custom alert policies",0/3,"NIST 800-53, Data Protection Baseline",Default Group,Audit,"Data Protection Baseline, NIST 800-53",Discover and respond,None
+Investigate and remediate delivered malicious emails,0/3,"NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Office 365,"Data Protection Baseline, NIST 800-53",Protect against threats,None
+Investigate components associated with a Microsoft Defender ATP alert,0/3,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Investigate compromised accounts using audit,0/3,"NIST 800-53, Data Protection Baseline",Default Group,Audit,"Data Protection Baseline, NIST 800-53",Discover and respond,None
+Use Microsoft Defender Antivirus for block at first sight,0/3,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Investigate entities on devices using live response in Microsoft Defender ATP,0/3,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Use Microsoft Defender ATP for threat and vulnerability management,0/3,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Investigate incidents in Microsoft Defender ATP,0/3,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Use Microsoft Defender ATP to identify and investigate software vulnerabilities,0/3,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Use Microsoft Defender ATP to remediate threats and vulnerabilities,0/3,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Use Microsoft Defender ATP to review the software inventory,0/3,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Use Microsoft Defender ATP to view event timelines,0/3,"NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, NIST 800-53",Protect against threats,None
+Use Office 365 ATP to automate investigation and response,0/3,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Office 365,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Use Office 365 ATP to remediate compromised user accounts,0/3,"NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Office 365,"Data Protection Baseline, NIST 800-53",Protect against threats,None
+Use Office 365 ATP to View and Investigate Restricted Users,0/3,"NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Office 365,"Data Protection Baseline, NIST 800-53",Protect against threats,None
+Create a custom activity policy to discover suspicious usage patterns,0/3,"NIST 800-53, Data Protection Baseline",Default Group,Cloud App Security,"Data Protection Baseline, NIST 800-53",Discover and respond,Could not be detected
+Quarantine messages,0/3,"NIST 800-53, Data Protection Baseline",Default Group,Exchange Online Protection,"Data Protection Baseline, NIST 800-53",Protect information,None
+View device health and compliance report in Microsoft Defender ATP,0/3,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+View threat protection report in Microsoft Defender ATP,0/3,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Use Office 365 ATP Threat Explorer (or Real-Time Threat Detection),0/3,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Office 365,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Revoke emergency/temporary access,0/3,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Azure Active Directory,"Data Protection Baseline, ISO 27001, NIST 800-53",Control access,None
+Review and approve remediation actions in Microsoft Defender ATP,0/3,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Review alerts trigged by alert policies,0/3,"NIST 800-53, Data Protection Baseline",Default Group,Audit,"Data Protection Baseline, NIST 800-53",Discover and respond,None
+Create and manage custom detection rules in Microsoft Defender ATP,0/3,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Review audit and sign-in logs in Azure Active Directory,0/3,"NIST 800-53, Data Protection Baseline",Default Group,Azure Active Directory,"Data Protection Baseline, NIST 800-53",Control access,None
+Monitor communications for offensive or threatening language,0/3,Data Protection Baseline,Default Group,Communication compliance,Data Protection Baseline,Manage internal risks,None
+Review content containing sensitive data using Content Explorer,0/3,"NIST 800-53, Data Protection Baseline",Default Group,Microsoft Information Protection,"Data Protection Baseline, NIST 800-53",Protect information,None
+Review cloud service provider’s compliance with policies and agreements,0/3,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Create custom sensitive information types,0/3,"ISO 27001, EU GDPR, NIST 800-53, Data Protection Baseline",Default Group,Data classification,"Data Protection Baseline, EU GDPR, ISO 27001, NIST 800-53",Protect information,None
+Monitor communications for sensitive information,0/3,"ISO 27001, EU GDPR, Data Protection Baseline",Default Group,Communication compliance,"Data Protection Baseline, EU GDPR, ISO 27001",Manage internal risks,None
+Monitor communications using a customized policy,0/3,"ISO 27001, EU GDPR, Data Protection Baseline",Default Group,Communication compliance,"Data Protection Baseline, EU GDPR, ISO 27001",Manage internal risks,None
+Review Cloud Discovery snapshot report,0/3,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Cloud App Security,"Data Protection Baseline, ISO 27001, NIST 800-53",Discover and respond,None
+Use DSR cases to respond to data subject requests,0/3,"EU GDPR, Data Protection Baseline",Default Group,Security & compliance center,"Data Protection Baseline, EU GDPR",Discover and respond,None
+Use Azure Active Directory to respond to DSR requests,0/3,"EU GDPR, Data Protection Baseline",Default Group,Azure Active Directory,"Data Protection Baseline, EU GDPR",Control access,None
+Configure email forwarding,0/3,"NIST 800-53, Data Protection Baseline",Default Group,Exchange Online Protection,"Data Protection Baseline, NIST 800-53",Protect information,None
+Use permit-by-exception and deny-by-exception practices,0/3,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Cloud App Security,"Data Protection Baseline, ISO 27001, NIST 800-53",Discover and respond,None
+Enable and configure Microsoft Defender Antivirus always-on protection in Group Policy,0/3,"NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Endpoint,"Data Protection Baseline, NIST 800-53",Protect against threats,None
+Review audit logs in Intune,0/3,"NIST 800-53, Data Protection Baseline",Default Group,Intune,"Data Protection Baseline, NIST 800-53",Manage devices,None
+Perform disposition review,0/3,"EU GDPR, NIST 800-53",Default Group,Records management,"EU GDPR, NIST 800-53",Govern information,None
+Create customized or use default insider risk management policies for data leaks,0/3,"ISO 27001, EU GDPR",Default Group,Insider risk management,"EU GDPR, ISO 27001",Manage internal risks,None
+Use Core eDiscovery Cases to support legal investigations,0/3,ISO 27001,Default Group,eDiscovery,ISO 27001,Discover and respond,None
+Set up attorney client privilege detection in Advanced eDiscovery,0/3,ISO 27001,Default Group,eDiscovery,ISO 27001,Discover and respond,None
+Search imported third-party data items with Content Search,0/3,ISO 27001,Default Group,Content Search,ISO 27001,Discover and respond,None
+Recover deleted items in a user mailbox,0/3,"ISO 27001, NIST 800-53",Default Group,Exchange Online Protection,"ISO 27001, NIST 800-53",Protect information,None
+Set automated app permission notification for new Oauth applications connected to your corporate environment,0/3,"ISO 27001, NIST 800-53",Default Group,Cloud App Security,"ISO 27001, NIST 800-53",Discover and respond,None
+Eradicate contaminated information,0/1,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Execute actions in response to information spills,0/1,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Monitor Office 365 access,0/1,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Perform vulnerability scans,0/1,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Azure Security Center,"Data Protection Baseline, ISO 27001, NIST 800-53",Discover and respond,None
+Alert personnel of information spillage,0/1,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Monitor security and privacy training completion,0/1,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Notify upon termination or transfer within required timeframe,0/1,Data Protection Baseline,Default Group,Compliance Manager,Data Protection Baseline,Manage compliance,None
+Undergo independent security review,0/1,"ISO 27001, EU GDPR, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, EU GDPR, ISO 27001, NIST 800-53",Manage compliance,None
+Implement incident handling,0/1,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Notify upon termination or transfer,0/1,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Notify upon system usage or need-to-know changes,0/1,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Notify when account is not needed,0/1,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Remediate information system flaws,0/1,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Revoke privileged roles as appropriate,0/1,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Review user accounts,0/1,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Review threat protection status weekly,0/1,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Office 365,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Monitor account activity,0/1,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Integrate cloud app security with a siem,0/1,"NIST 800-53, Data Protection Baseline",Default Group,Cloud App Security,"Data Protection Baseline, NIST 800-53",Discover and respond,None
+Correlate audit records,0/1,"NIST 800-53, Data Protection Baseline",Default Group,Cloud App Security,"Data Protection Baseline, NIST 800-53",Discover and respond,None
+"Integrate audit review, analysis, and reporting",0/1,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Report breaches to supervisory authority,0/1,"EU GDPR, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, EU GDPR",Manage compliance,None
+Monitor third-party compliance,0/1,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Automate flaw remediation,0/1,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Determine auditable events,0/1,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Employ a change-detection mechanism,0/1,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Document security operations,0/1,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Test the business continuity and disaster recovery plan,0/1,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Test and evaluate security of information systems processing data,0/1,"EU GDPR, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, EU GDPR",Manage compliance,None
+Develop spillage response procedures,0/1,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Identify spilled information,0/1,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Isolate information spills,0/1,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Identify contaminated systems and components,0/1,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Audit user account status,0/1,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Audit,"Data Protection Baseline, ISO 27001, NIST 800-53",Discover and respond,None
+Audit privileged functions,0/1,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Audit,"Data Protection Baseline, ISO 27001, NIST 800-53",Discover and respond,None
+Review file and folder activity,0/1,"NIST 800-53, Data Protection Baseline",Default Group,Audit,"Data Protection Baseline, NIST 800-53",Discover and respond,None
+Review label activity and analytics,0/1,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Information Protection,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect information,None
+Implement a penetration testing methodology,0/1,Data Protection Baseline,Default Group,Compliance Manager,Data Protection Baseline,Manage compliance,None
+Define performance metrics,0/1,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Uninstall unused apps and services,0/1,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Deploy anti-malware software,0/1,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Install a surveillance camera system,0/1,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Observe and report security weaknesses,0/1,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, ISO 27001, NIST 800-53",Manage compliance,None
+Manage a secure surveillance camera system,0/1,"NIST 800-53, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, NIST 800-53",Manage compliance,None
+Report incidents to relevant parties,0/1,Data Protection Baseline,Default Group,Compliance Manager,Data Protection Baseline,Manage compliance,None
+Manage data subject requests,0/1,"EU GDPR, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, EU GDPR",Manage compliance,None
+Respond to rectification requests,0/1,"EU GDPR, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, EU GDPR",Manage compliance,None
+Review user groups and applications with access to sensitive data,0/1,"ISO 27001, EU GDPR, NIST 800-53, Data Protection Baseline",Default Group,Azure Active Directory,"Data Protection Baseline, EU GDPR, ISO 27001, NIST 800-53",Control access,None
+Use in-app functionality to respond to DSRs,0/1,"EU GDPR, Data Protection Baseline",Default Group,Compliance Manager,"Data Protection Baseline, EU GDPR",Manage compliance,None
+Review administrator assignments weekly,0/1,"NIST 800-53, Data Protection Baseline",Default Group,Microsoft 365 admin center,"Data Protection Baseline, NIST 800-53",Control access,None
+Review risky sign-ins,0/1,"NIST 800-53, Data Protection Baseline",Default Group,Azure Active Directory,"Data Protection Baseline, NIST 800-53",Control access,None
+Review account provisioning logs,0/1,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Azure Active Directory,"Data Protection Baseline, ISO 27001, NIST 800-53",Control access,None
+Review audit data,0/1,"NIST 800-53, Data Protection Baseline",Default Group,Audit,"Data Protection Baseline, NIST 800-53",Discover and respond,None
+Review security overview,0/1,"NIST 800-53, Data Protection Baseline",Default Group,Azure Active Directory,"Data Protection Baseline, NIST 800-53",Control access,None
+Review role group changes weekly,0/1,"NIST 800-53, Data Protection Baseline",Default Group,Azure Active Directory,"Data Protection Baseline, NIST 800-53",Control access,None
+Review non-owner mailbox access report weekly,0/1,"NIST 800-53, Data Protection Baseline",Default Group,Exchange Online Protection,"Data Protection Baseline, NIST 800-53",Protect information,None
+Review malware detections report weekly,0/1,"ISO 27001, NIST 800-53, Data Protection Baseline",Default Group,Microsoft Defender for Office 365,"Data Protection Baseline, ISO 27001, NIST 800-53",Protect against threats,None
+Report breaches to affected data subject,0/1,EU GDPR,Default Group,Compliance Manager,EU GDPR,Manage compliance,None
+Document and implement privacy complaint procedures,0/1,EU GDPR,Default Group,Compliance Manager,EU GDPR,Manage compliance,None
+Document and implement goods and services complaint procedure,0/1,EU GDPR,Default Group,Compliance Manager,EU GDPR,Manage compliance,None
+Maintain records of data subject request refusals,0/1,EU GDPR,Default Group,Compliance Manager,EU GDPR,Manage compliance,None
+Verify personal data is deleted at the end of processing,0/1,"ISO 27001, EU GDPR, NIST 800-53",Default Group,Compliance Manager,"EU GDPR, ISO 27001, NIST 800-53",Manage compliance,None
+Verify security controls for external information systems,0/1,"ISO 27001, NIST 800-53",Default Group,Compliance Manager,"ISO 27001, NIST 800-53",Manage compliance,None
+Monitor the regulatory environment,0/1,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
+Implement resiliency mechanisms,0/1,ISO 27001,Default Group,Compliance Manager,ISO 27001,Manage compliance,None
